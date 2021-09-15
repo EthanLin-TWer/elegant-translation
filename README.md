@@ -291,6 +291,7 @@ end-to-end：经常直接译为“端到端”。词本身已经在行业里普�
 * [](https://blog.huangz.me/2017/notes-about-translation-13.html)
 * [](https://www.jianshu.com/p/44af5906e27f)
 * [](https://www.jianshu.com/p/27d65da56ed8)
+* [](https://www.zhihu.com/question/288667624/answer/544711844)
 
 [李松峰：浅谈技术翻译]: https://www.ituring.com.cn/article/111114
 [四项基本原则]: https://baike.baidu.com/item/%E5%9B%9B%E9%A1%B9%E5%9F%BA%E6%9C%AC%E5%8E%9F%E5%88%99/280112
