@@ -266,6 +266,7 @@ end-to-end：经常直接译为“端到端”。词本身已经在行业里普�
 ## 参考资料
 
 * [x] [李松峰：浅谈技术翻译][]
+* [](https://shiina18.github.io/language/2021/04/26/translation/)
 * [](https://www.zhihu.com/question/54548932/answer/384159874)
 * [](https://blog.csdn.net/softstars/article/details/2269205)
 * [](https://www.zhihu.com/question/50753876)
